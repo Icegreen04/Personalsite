@@ -8,10 +8,9 @@ body{
 }
 
 hr{
-    border-style: dotted none none;
-    border-width: 8px;
+    border-width: 4px;
     border-color: #BDCDD6;
-    width: 15%;
+    width: 65%;
 }
 
 h1{
