@@ -1,6 +1,10 @@
   
 body{
-    background-color: #6096B4;
+    background-color: powderblue;
+}
+
+body{
+    background-image: linear-gradient(to right bottom, teal, olive);
 }
 
 hr{
